@@ -84,6 +84,10 @@ a:hover {
 }
 
 @media (max-width: 480px) {
+    .card {
+        padding: 15px 10px;
+    }
+
     .card-title {
         font-size: 1.5rem;
     }
